@@ -1,0 +1,1 @@
+Got from the [[Freighter]] [[7]]. Coordinates on the back to a volcano near #Lukra City

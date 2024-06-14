@@ -1,0 +1,1 @@
+Obtained at [[2]]. Attacked by a snake.
