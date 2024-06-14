@@ -20,7 +20,9 @@ This folder contains notes titled with the Quest name at the bottom of each of t
 
 ## Obsidian and Vault usage
 1. If not present on your device, download [Obsidian](https://obsidian.md/download)
-3. Clone the repository from [GitHub](https://github.com/jlehenbauer/SleepingGods)
-4. Open Obsidian and choose "Open vault" and select the cloned folder
-5. Install the "Git" community plugin in Obsidian and enable it on the Community Plugins page
-6. 
+2. Clone the repository from [GitHub](https://github.com/jlehenbauer/SleepingGods)
+3. Open Obsidian and choose "Open vault" and select the cloned folder
+4. (Optional) Set up automatic git sync
+	1. Install the "Git" community plugin in Obsidian
+	2. Enable it on the Community Plugins page
+	3. Configure for automatic push/pull as desired. If you would like to only pull changes automatically, keep the `Vault backup interval` set to `0`
