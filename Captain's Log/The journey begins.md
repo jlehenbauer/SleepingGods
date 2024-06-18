@@ -5,7 +5,7 @@
 - Justin
 - Jacob
 **Objective:** Learn
-****
+**Sustenance**: Pluckers, assorted wings and dips
 
 After a long and much-needed training session, the troupe was ready to set sail upon the open waters. 
 

@@ -1,10 +1,11 @@
-Date: 6/13/2024
-Party:
+**Date:** 6/13/2024
+**Party:**
 - Michael
 - Cole
 - Justin
 - Jacob
-Objective: Make a plan
+**Objective:** Make a plan
+**Sustenance**: Cane's 25-Finger Tailgate™
 
 The giant rats of [[63]] had wiped us out. We were in desperate need of supplies, so visited a market near [[20]], we found we were too low on funds to procure decent weapons, and made this our next goal. 
 
