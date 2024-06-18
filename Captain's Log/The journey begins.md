@@ -1,10 +1,11 @@
-Date: 6/1/2024
-Party:
+**Date:** 6/1/2024
+**Party:**
 - Michael
 - Cole
 - Justin
 - Jacob
-Objective: Learn
+**Objective:** Learn
+****
 
 After a long and much-needed training session, the troupe was ready to set sail upon the open waters. 
 
