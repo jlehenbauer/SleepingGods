@@ -1,1 +1,1 @@
-Visit the base of the southern volcano [[76]]
+Visit the base of the southern volcano [[12]]
