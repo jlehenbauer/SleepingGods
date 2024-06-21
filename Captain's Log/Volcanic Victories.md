@@ -7,4 +7,6 @@
 **Objective:** Make it to #Lukra , get some weapons
 **Sustenance**: Taco 12 pack, Crunchwrap™s
 
+Michael and Jacob explored [[12]] and got attacked by a three-eyed Titan
+
 
