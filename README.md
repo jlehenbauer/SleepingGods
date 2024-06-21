@@ -7,7 +7,7 @@ Hello! Welcome to the Obsidian Vault for the Sleeping Gods campaign conducted by
 #### Captain's Log
 This is a record of each of our journeys in narrative form. Can be useful for recalling details surrounding an item, encounter, or location. Also very entertaining.
 #### Locations
-This folder contains notes titled with the number corresponding to locations on the board. Use links to these to reference the specific board locations. Contains details about necessary quests to obtain for revisiting.
+This folder contains notes titled with the number corresponding to locations on the board. Use links to these to reference the specific board locations. Contains details about necessary quests to obtain for revisiting. All refer to the [[Map.png]]
 #### Quests
 This folder contains notes titled with the Quest name at the bottom of each of the quest cards. Contains brief details about the quest, including links to other quests, locations, whether or not the quest is completed, and which options remain, if any. 
 #### Encounters
