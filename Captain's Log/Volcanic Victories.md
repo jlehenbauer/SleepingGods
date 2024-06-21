@@ -4,5 +4,7 @@
 - Cole
 - Justin
 - Jacob*
-**Objective:** Make a plan
-**Sustenance**: Cane's 25-Finger Tailgate™
+**Objective:** Make it to #Lukra , get some weapons
+**Sustenance**: Taco 12 pack, Crunchwrap™s
+
+
