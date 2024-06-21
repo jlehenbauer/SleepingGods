@@ -15,6 +15,10 @@ Cole and Justin joined, and began our journey toward #Lukra around the south of 
 
 We followed an island floating in the air at [[92]], but couldn't keep up with it.
 
-We made it to #Lukra!! 
+We made it to #Lukra!!  Rested the crew and #levelup Captain Odessa with Endurance!
+
+
+
+
 
 
