@@ -27,6 +27,6 @@ We visited the eastern part of the city [[41]] and found Jin!! Someone poisoned 
 
 We succeed! We find the crystal, but it has a totem in it! We got [[Ohmlude's Crystal]] - but it means we need another way to heal Jin. We completed [[Cook]] in the process, and gained [[Poison]]. 
 
-To recoup, we visited the port again and healed up and #levelup 
+To recoup, we visited the port again and healed up and #levelup Mac with World Lore! 
 
 
