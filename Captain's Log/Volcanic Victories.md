@@ -19,6 +19,8 @@ We made it to #Lukra!!  Rested the crew and #levelup Captain Odessa with Enduran
 
 Depleted the event deck, encountered the [[Hectakron]] and readied for #battle.
 
+Captain Odessa used Mac and Kasumi's synergies to deliver the death blow to the [[Hectakron]] head after a hard-fought battle with the crew. 
+
 
 
 
