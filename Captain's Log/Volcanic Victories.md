@@ -13,5 +13,8 @@ We then ventured up to [[115]] where we saw and [[Airship]] go down, survivors m
 
 Cole and Justin joined, and began our journey toward #Lukra around the south of the volcanic island.
 
-We followed an island floating in the air at [[92]], 
+We followed an island floating in the air at [[92]], but couldn't keep up with it.
+
+We made it to #Lukra!! 
+
 
