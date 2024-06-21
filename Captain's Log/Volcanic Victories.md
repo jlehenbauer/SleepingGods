@@ -25,7 +25,7 @@ We went to the market and readied ourselves with much-needed weapons before head
 
 We visited the eastern part of the city [[41]] and found Jin!! Someone poisoned her though, and we need to collect a crystal from the Hive tower; we climb up and are attacked by three eyeballs...
 
-We succeed! We find the crystal, but it has a totem in it - but it means we need another way to heal Jin. We completed [[Cook]] in the process, and gained [[]]
+We succeed! We find the crystal, but it has a totem in it! We got [[Ohmlude's Crystal]] - but it means we need another way to heal Jin. We completed [[Cook]] in the process, and gained [[Poison]]. 
 
 
 
