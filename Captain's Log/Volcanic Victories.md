@@ -21,6 +21,7 @@ Depleted the event deck, encountered the [[Hectakron]] and readied for #battle.
 
 Captain Odessa used Mac and Kasumi's synergies to deliver the death blow to the [[Hectakron]] head after a hard-fought battle with the crew. 
 
+We went to the market and readied ourselves with much-needed weapons before heading into #Lukra  city [[70]].  We visited the university and collected the [[Science]] quest that seems to direct to [[87]]. We explored the merchant district before leaving and met a man who would sell us the #divingsuit, but we need to #revisit as we don't have the coin after purchasing weapons at the market. 
 
 
 
