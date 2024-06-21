@@ -15,6 +15,7 @@ These are important people, events, or items we encounter that need multiple ent
 #### Miscellaneous
 It needs more details, but isn't as widely applicable as a tag
 ### Tags
+- #battle - be ready for combat!
 - #complete - a location or quest has been completed
 - #levelup - marks leveling up a character
 - #repeatable - a location has a set of actions that can be completed multiple times
