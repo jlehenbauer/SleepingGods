@@ -1,0 +1,1 @@
+Obtained in #Lukra city, seems to point to [[87]].

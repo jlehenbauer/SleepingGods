@@ -1,0 +1,1 @@
+Found this being sold by a man in #Lukra city for 5 coin, but didn't have enough - need to #revisit , it seems important.

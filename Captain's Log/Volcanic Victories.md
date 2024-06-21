@@ -5,7 +5,7 @@
 - Justin
 - Jacob*
 **Objective:** Make it to #Lukra , get some weapons
-**Sustenance**: Taco 12 pack, Crunchwrap™s
+**Sustenance**: Taco 12 pack, two CheezIt™ Crunchwrap™s
 
 Michael and Jacob explored [[12]] and got attacked by a three-eyed Titan - we ran away and picked up some materials on the way out, as well as the [[Fiery Salamander]].
 
@@ -21,12 +21,10 @@ Depleted the event deck, encountered the [[Hectakron]] and readied for #battle.
 
 Captain Odessa used Mac and Kasumi's synergies to deliver the death blow to the [[Hectakron]] head after a hard-fought battle with the crew. 
 
-We went to the market and readied ourselves with much-needed weapons before heading into #Lukra  city [[70]].  We visited the university and collected the [[Science]] quest that seems to direct to [[87]]. We explored the merchant district before leaving and met a man who would sell us the #divingsuit, but we need to #revisit as we don't have the coin after purchasing weapons at the market. 
+We went to the market and readied ourselves with much-needed weapons before heading into #Lukra  city [[70]].  We visited the university and collected the [[Science]] quest that seems to direct to [[87]]. We explored the merchant district before leaving and met a man who would sell us the [[Diving Suit]], but we need to #revisit as we don't have the necessary coin (5) after purchasing weapons at the market. 
 
 We visited the eastern part of the city [[41]] and found Jin!! Someone poisoned her though, and we need to collect a crystal from the Hive tower; we climb up and are attacked by three eyeballs...
 
 We succeed! We find the crystal, but it has a totem in it! We got [[Ohmlude's Crystal]] - but it means we need another way to heal Jin. We completed [[Cook]] in the process, and gained [[Poison]]. 
 
-To recoup, we visited the port again and healed up and #levelup Mac with World Lore! 
-
-
+To recoup, we visited the port again and healed up and #levelup Mac with World Lore! Dealt with our tentacled friend that's still attached to the ship, and packed up to ready to set out for our next voyage...
