@@ -17,7 +17,7 @@ We followed an island floating in the air at [[92]], but couldn't keep up with i
 
 We made it to #Lukra!!  Rested the crew and #levelup Captain Odessa with Endurance!
 
-
+Depleted the event deck, encountered the [[Hectakron]] and readied for #battle.
 
 
 
