@@ -9,7 +9,7 @@
 
 Michael and Jacob explored [[12]] and got attacked by a three-eyed Titan - we ran away and picked up some materials on the way out, as well as the [[Fiery Salamander]].
 
-We then ventured up to [[115]] where we saw an [[Airship]] go down; survivors may be found at [[103]]. 
+We then ventured up to [[115]] where we saw and [[Airship]] go down, survivors may be found at [[103]]. 
 
 Cole and Justin joined, and began our journey toward #Lukra around the south of the volcanic island.
 
@@ -17,7 +17,7 @@ We followed an island floating in the air at [[92]], but couldn't keep up with i
 
 We made it to #Lukra!!  Rested the crew and #levelup Captain Odessa with Endurance!
 
-Depleted the event deck, encountered the [[Hectakron]] and readied for #battle.
+Depleted the event deck, encountered the [[Hectakron]] right there in #Lukra harbor and readied for #battle.
 
 Captain Odessa used Mac and Kasumi's synergies to deliver the death blow to the [[Hectakron]] head after a hard-fought battle with the crew. 
 
