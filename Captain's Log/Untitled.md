@@ -13,4 +13,4 @@ Explore [[87]] with the [[Science]] quest find the shop about to be attacked. En
 
 Heal up at #Lukra and heal up, spend #xp to level up Marco! 
 
-Received Engine Trouble and headed up to [[130]]
+Received Engine Trouble () and headed up to [[130]]
