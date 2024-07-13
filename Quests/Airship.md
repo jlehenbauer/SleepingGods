@@ -1,1 +1,1 @@
-We saw this flying machine go down near [[103]] while seeing the volcano erupt after landing at [[115]]
+We saw this flying machine go down near [[103]] while seeing the volcano erupt after landing at [[115]]. Found a survivor and sold him to "authorities 
