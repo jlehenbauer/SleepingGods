@@ -15,4 +15,4 @@ Heal up at #Lukra again, #levelup  Marco!
 
 Resolved Engine Trouble (ongoing) and headed up to [[103]] to be prepared to explore. 
 
-Find wreckage, 
+Find wreckage, escape the erupting volcano
