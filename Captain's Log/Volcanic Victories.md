@@ -23,7 +23,7 @@ Captain Odessa used Mac and Kasumi's synergies to deliver the death blow to the 
 
 We went to the market and readied ourselves with much-needed weapons before heading into #Lukra  city [[70]].  We visited the university and collected the [[Science]] quest that seems to direct to [[87]]. We explored the merchant district before leaving and met a man who would sell us the [[Diving Suit]], but we need to #revisit as we don't have the necessary coin (5) after purchasing weapons at the market. 
 
-We visited the eastern part of the city [[41]] and found Jin!! Someone poisoned her though, and we need to collect a crystal from the Hive tower; we climb up and are attacked by three eyeballs...
+We visited the eastern part of the city [[41]] and found Jin!! Someone poisoned her though, and we need to collect a crystal from the [[Hive]] tower; we climb up and are attacked by three eyeballs...
 
 We succeed! We find the crystal, but it has a totem in it! We got [[Ohmlude's Crystal]] - but it means we need another way to heal Jin. We completed [[Cook]] in the process, and gained [[Poison]]. 
 
