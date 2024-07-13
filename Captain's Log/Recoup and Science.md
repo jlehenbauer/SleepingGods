@@ -3,7 +3,7 @@
 - Justin
 - Jacob
 **Objective:** Bulk up
-**Sustenance**: Whiskey
+**Sustenance**: Whiskey and smoke
 
 Defeat the sea serpent (ongoing event).
 
