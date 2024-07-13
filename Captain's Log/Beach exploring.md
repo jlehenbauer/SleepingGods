@@ -13,5 +13,6 @@ Explore [[87]] with the [[Science]] quest find the shop about to be attacked. En
 
 Heal up at #Lukra again, #levelup  Marco! 
 
-Resolved Engine Trouble (ongoing) and headed up to [[130]] to be prepared to explore. 
+Resolved Engine Trouble (ongoing) and headed up to [[103]] to be prepared to explore. 
 
+Find wreckage, 
