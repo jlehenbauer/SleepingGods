@@ -5,3 +5,5 @@
 **Objective:** Bulk up
 **Sustenance**: Whiskey
 
+Defeat the sea serpent (ongoing event)
+
