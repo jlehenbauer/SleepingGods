@@ -16,3 +16,5 @@ Heal up at #Lukra again, #levelup  Marco!
 Resolved Engine Trouble (ongoing) and headed up to [[103]] to be prepared to explore. 
 
 Find wreckage, escape the erupting volcano, but get beat up by some people looking for a survivor we found. Sold the kid for 9 coin, [[Airship]] #complete. 
+
+Travel North to #Glance at [[60]].
