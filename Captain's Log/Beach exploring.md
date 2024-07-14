@@ -23,3 +23,4 @@ Visit [[58]] - found out about a secret auction house (probably at [[132]]) but 
 
 Explore [[78]], defeated monsters and obtained [[Launch]].
 
+Went back to the port with the cash we got from the monsters and paid for the secret - the [[password]] is [[Raltolde]], and it might be a #totem !
