@@ -19,4 +19,4 @@ Find wreckage, escape the erupting volcano, but get beat up by some people looki
 
 Travel North to #Glance at [[60]] and visit the auction house and the market. 
 
-Visit [[58]] - 
+Visit [[58]] - found out about a secret auction house (probably at [[132]]) but have to pay 2 coins for the password. 
