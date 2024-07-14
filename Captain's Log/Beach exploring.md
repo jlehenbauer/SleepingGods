@@ -17,4 +17,6 @@ Resolved Engine Trouble (ongoing) and headed up to [[103]] to be prepared to exp
 
 Find wreckage, escape the erupting volcano, but get beat up by some people looking for a survivor we found. Sold the kid for 9 coin, [[Airship]] #complete. 
 
-Travel North to #Glance at [[60]] and visit the auction house. 
+Travel North to #Glance at [[60]] and visit the auction house and the market. 
+
+Visit [[58]] - 
