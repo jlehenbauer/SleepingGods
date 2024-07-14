@@ -1,0 +1,1 @@
+Got this quest in #Glance at the auction house [[58]]. Possible #totem
