@@ -1,0 +1,1 @@
+Two Mythans we met at [[114]] told us about the Eternal Flame that needs a bearer. 
