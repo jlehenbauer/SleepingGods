@@ -1,0 +1,1 @@
+Plus one attack, minus one health. Given this by [[Vyme the Pann Ghost]]

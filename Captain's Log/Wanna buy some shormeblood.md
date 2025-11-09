@@ -10,7 +10,7 @@ Healed up a little before heading to find some shormeblood crystal at [[69]].
 
 Deal with an infestation of giant crows and ALMOST FUCKIN DIE. We leave with only two total health among the group, with Marco succumbing to his venom before we make it back to the port. As a result though, we collect many resources and #xp, as well as the shormeblood we need for the mayor of #Glance. Complete [[Crystal]] and gain [[Materials]]. 
 
-Take a few turns to spend all the coin at the inn to heal and restore fatigue. Spend #xp on Laurent's Watchful ability and Gregory's Patch Up ability. Also visit the auction house to purchase meat and veggies. 
+Take a few turns to spend all the coin at the inn to heal and restore fatigue. Spend #xp on Laurent's Watchful ability and Gregory's Patch Up ability #levelup . Also visit the auction house to purchase meat and veggies. 
 
 Then take the shormeblood to the mayor and in return, get the #totem [[Stone of Bargaining]]! Completed [[Materials]], gain [[Clock]]. 
 

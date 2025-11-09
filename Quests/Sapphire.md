@@ -1,0 +1,1 @@
+We helped Captain Meldrum repair his luxury liner and in return he stole three of our items, which happens to be three totems. Kusumi saw his ship heading east.

@@ -7,9 +7,9 @@
 **Objective:** FINISH THEM
 **Sustenance**: Cheeseburger Cunchwraps (TM) 
 
-Run into a hurricane (last event card!) and get *fucked* and take a lot of ship damage. High-tail it back to #Aurora [[160]] (thanks to Audrie's Jury-Rigged Engine) and heal up the ship and ourselves.
+Run into a hurricane (last event card!) and get *fucked* and take a lot of ship damage. High-tail it back to #Aurora [[160]] (thanks to Audrie's Jury-Rigged Engine #levelup ) and heal up the ship and ourselves.
 
-Get Kasumi's Counter ability for 3 #xp before the big move.
+#levelup Kasumi's Counter ability for 3 #xp before the big move.
 
 Ohmulde appears to warn us: the Hectakron is coming back. Always, and in force. 
 
@@ -25,6 +25,8 @@ There's nothing else to be done.
 
 We run the Manticore aground running from the Hectakron. Those of us that survive resign ourselves to an island, making the most of our days in this new land.
 
-Earned ending 12.
+Earned ending 12. 
+
+#finalscore 80
 
 

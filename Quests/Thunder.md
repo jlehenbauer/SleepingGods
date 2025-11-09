@@ -1,0 +1,1 @@
+Visit a village horribly destroyed with bodies everywhere. This is where we find and gain [[Vyme the Pann Ghost]] as a party member. 
